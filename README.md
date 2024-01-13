@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif...)](https://rishavchanda.io)
 <center>
-<img src="https://github.com/TOX1C-143/TOX1C-143/raw/main/Image/20240114_013820.gif" width="100" height="180" align="right">
+<img src="[https://github.com/TOX1C-143/TOX1C-143/raw/main/Image/20240114_013820.gif](https://github.com/TOX1C-143/TOX1C-143/blob/main/Image/20240114_030507.gif)" width="100" height="180" align="right">
 </center>
 
 <h1 align="center">Hi🙂I'm MR-ERROR</h1><h3 align="center">TOXIC-143</h3><p align="left"> 
