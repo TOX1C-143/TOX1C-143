@@ -34,17 +34,15 @@ WELCOME TO TOXIC WORLD
 
 - `pip install bs4`
 
-- `rm -rf ALAMIN`
+- rm -rf Toxic_404`
 
-- `git clone https://github.com/ALAMIN-156/ALAMIN.git`
+- `git clone https://github.com/Tox1c-143/Toxic_404.git`
 
- - `git pull`
+- `cd Toxic_404 `
 
-- `cd ALAMIN`
+- python Toxic__vau.py`
 
-- `python ALAMIN.py`
-
-# Thank You For Your Support ❤️😘
+# Thank You For Using my Tools
 
 
 
