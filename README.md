@@ -14,7 +14,7 @@ WELCOME TO TOXIC WORLD
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=TOXIC+143+AFRIDI;IT'S+NOT+A+NAME;IT'S+BRAND+BRO)](https://git.io/typing-svg)
 
  
 
