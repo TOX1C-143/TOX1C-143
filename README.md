@@ -6,7 +6,7 @@ WELCOME TO TOXIC WORLD
 
  
 
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+<img src="https://github.com/TOX1C-143/TOX1C-143/blob/main/Image/pinterestdownloader.com-1707863065.6401.gif" alt="" border="0" />
 
  
 
@@ -34,13 +34,13 @@ WELCOME TO TOXIC WORLD
 
 - `pip install bs4`
 
-- rm -rf Toxic_404`
+- `rm -rf Toxic_404`
 
 - `git clone https://github.com/Tox1c-143/Toxic_404.git`
 
 - `cd Toxic_404 `
 
-- python Toxic__vau.py`
+- `python Toxic__vau.py`
 
 # Thank You For Using my Tools
 
