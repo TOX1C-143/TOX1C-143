@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+WELCOM TO TOXIC WORLD 🌍;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏)](https://git.io/typing-svg)
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+    WELCOME TO TOXIC WORLD 
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+</h3>
 
  
 
